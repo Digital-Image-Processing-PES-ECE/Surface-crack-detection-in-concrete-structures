@@ -36,10 +36,12 @@ The method demonstrates a synergistic approach by fusing intensity-based and edg
    
 ### Limitations and Future Work:
 Limitations
+
 The algorithm's performance may degrade under poor lighting conditions, non-uniform illumination, or high noise levels. 
 cracks with very low contrast compared to the background may go undetected.
 For images with complex backgrounds or textures, the method may misclassify background patterns as cracks, leading to false positives.
 Future work
+
 Explore the use of convolutional neural networks (CNNs) or pre-trained models for better crack segmentation and adaptability to varying conditions and textures.
 Optimize the code for real-time detection in applications such as drone-based crack inspection or automated industrial monitoring.
 Implement automated parameter tuning using machine learning or optimization algorithms to improve generalizability across different datasets.
