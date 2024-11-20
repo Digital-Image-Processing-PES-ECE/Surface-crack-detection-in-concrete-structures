@@ -40,6 +40,7 @@ Limitations
 The algorithm's performance may degrade under poor lighting conditions, non-uniform illumination, or high noise levels. 
 cracks with very low contrast compared to the background may go undetected.
 For images with complex backgrounds or textures, the method may misclassify background patterns as cracks, leading to false positives.
+
 Future work
 
 Explore the use of convolutional neural networks (CNNs) or pre-trained models for better crack segmentation and adaptability to varying conditions and textures.
