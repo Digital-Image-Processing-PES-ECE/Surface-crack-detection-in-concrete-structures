@@ -25,19 +25,10 @@ The method demonstrates a synergistic approach by fusing intensity-based and edg
 1. Shivani S(PES1UG22EC274)
 2. Sanjana(PES1UG22EC258)
 
-### Steps:
-1. Clone Repository
-```git clone https://github.com/Digital-Image-Processing-PES-ECE/project-name.git ```
-
-2. Install Dependencies
-```pip install -r requirements.txt```
-
-3. Run the Code
-```python main.py (for eg.)```
-
 ### Outputs:
-* Important intermediate steps
-* Final output images 
+
+* ![image](https://github.com/user-attachments/assets/7a0379b1-e4a9-471e-9ee9-dd89373148ac)
+
 
 ### References:
 1. - Review of Microcrack Detection Techniques for Silicon Solar Cells," in IEEE Journal of Photovoltaics, vol. 4, no. 1, pp. 514-524, Jan. 2014, doi: 10.1109/JPHOTOV.2013.2285622.
