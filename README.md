@@ -27,7 +27,8 @@ The method demonstrates a synergistic approach by fusing intensity-based and edg
 
 ### Outputs:
 
-* ![image](https://github.com/user-attachments/assets/7a0379b1-e4a9-471e-9ee9-dd89373148ac)
+![crack4_out](https://github.com/user-attachments/assets/6b645fd5-62ba-46f1-8127-da53cfdc77a4)
+
 
 
 ### References:
